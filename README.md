@@ -1,4 +1,4 @@
-## Hi im Joe
+## Hi Im Joe
 
 <!--
 **joejordan241/joejordan241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
