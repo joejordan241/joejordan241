@@ -1,5 +1,5 @@
 ## Hi Im Joe
-<h1>Hi, I'm Joe, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Joe, an <a href="https://www.linkedin.com/in/joseph-j-jordan/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -19,7 +19,7 @@
 
 
 
-[linkedin]: www.linkedin.com/in/joseph-j-jordan
+[linkedin]:https://www.linkedin.com/in/joseph-j-jordan/
 <!--
 **joejordan241/joejordan241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
